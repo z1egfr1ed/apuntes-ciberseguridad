@@ -102,7 +102,7 @@ Distribuido bajo la licencia [MIT](./LICENSE)
 ## 📬 Contacto
 
 - GitHub: [@z1egfr1ed](https://github.com/z1egfr1ed)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/marshelaillon)
+- LinkedIn: [Marshel Aillón](https://linkedin.com/in/marshelaillon)
 
 ---
 
